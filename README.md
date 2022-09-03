@@ -50,7 +50,7 @@ Screenshots follow the order of the code and define sections
 
  - [Github Profile](https://github.com/BrackyM)
  - [Github Challenge 5 Repository](https://github.com/BrackyM/UCBC5_EventCalendar)
- - [Challenge 5 Live Site](https://brackym.github.io/UCBC2_FirstPortfolioPage/)
+ - [Challenge 5 Live Site](https://brackym.github.io/UCBC5_EventCalendar/)
 
 ## Contributing Classmates
 
